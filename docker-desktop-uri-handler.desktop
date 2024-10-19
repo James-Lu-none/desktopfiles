@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Docker Desktop URI handler
+Exec=/opt/docker-desktop/bin/com.docker.url-handler %u
+StartupNotify=false
+NoDisplay=true
+MimeType=x-scheme-handler/docker-desktop;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=StayFree
+Exec=/opt/StayFree/stayfree-desktop %U
+Terminal=false
+Type=Application
+Icon=stayfree-desktop
+StartupWMClass=StayFree
+Comment=Analytics to help you understand and control your pc usage, leading to less distractions and enhanced productivity
+Categories=Utility;

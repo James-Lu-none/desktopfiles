@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Postman
+Type=Application
+Icon=/opt/Postman/app/icons/icon_128x128.png
+Exec=/opt/Postman/Postman
+Comment=An app for api testing
+Categories=Development;IDE;
+Terminal=false
+X-Desktop-File-Install-Version=0.26

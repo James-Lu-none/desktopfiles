@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Type=Application
+Name=NVIDIA Nsight Systems 2023.3.3
+GenericName=NVIDIA Nsight Systems
+Icon=/opt/nvidia/nsight-systems/2023.3.3/host-linux-x64/nsys-ui.png
+Exec=/opt/nvidia/nsight-systems/2023.3.3/host-linux-x64/nsys-ui
+Keywords=nvidia;system;profiler;
+X-AppInstall-Keywords=nvidia;system;profiler;
+X-GNOME-Keywords=nvidia;system;profiler;
+Terminal=No
+Categories=Application;Development;
